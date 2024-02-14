@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 'O.o'
+echo 'O.o'
