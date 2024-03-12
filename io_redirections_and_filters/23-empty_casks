@@ -1,4 +1,2 @@
 #!/bin/bash
-#!/bin/bash
-
 find . -maxdepth 1 -exec sh -c 'printf "%s\n" "${1##*/}"' sh {} \;
